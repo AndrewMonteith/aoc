@@ -1,0 +1,6 @@
+[submodule "cppcoro"]
+	path = cppcoro
+	url = https://github.com/andreasbuhr/cppcoro
+[submodule "numeric_ranges"]
+	path = numeric_ranges
+	url = https://github.com/tcbrindle/numeric_ranges
